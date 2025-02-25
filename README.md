@@ -90,7 +90,7 @@ This project can be integrated into applications requiring auto-fill and auto-su
 
 ## Data Structure
 
-The application uses a Trie data structure for efficient word storage and retrieval, ensuring fast operations even with a large dataset.
+The application uses a `Trie` data structure for efficient word storage and retrieval, ensuring fast operations even with a large dataset.
 
 ## Persistent Storage
 
